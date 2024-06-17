@@ -1,3 +1,4 @@
 langchain-huggingface
 python-dotenv
 langchain
+tensorflow
